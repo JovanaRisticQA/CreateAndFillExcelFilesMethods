@@ -55,7 +55,7 @@ public class MethodsToPopulateExcelFileWithFaker {
         }
     }
 
-    public static void createFakerTableWithTwoDimensionalObjectArray(String filePath)  {
+    public static void createFakerTableWithTwoDimensionalObjectArray(String filePath) {
 
             //The try-with-resources statement automatically closes all the resources at the end of the statement
             try
