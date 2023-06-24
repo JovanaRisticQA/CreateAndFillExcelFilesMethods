@@ -117,5 +117,4 @@ public class MethodsToPopulateExcelFileWithFaker {
             e.printStackTrace();
             }
     }
-
 }
